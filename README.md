@@ -2,7 +2,7 @@
 
 Created a very simple weather application using Node.js and Express, with a simple frontend to display weather information for a given city.
 
-<img width="1200" alt="image" src="https://github.com/arshiya19/weather_app/assets/72481315/49baad9c-4c2b-410f-a5fb-62592e88b197">
+<img width="800" alt="image" src="https://github.com/arshiya19/weather_app/assets/72481315/49baad9c-4c2b-410f-a5fb-62592e88b197">
 
 
 ## Backend:
